@@ -19,7 +19,7 @@ PyTorch 2.5.0 (with CUDA 12.1)
 
 ## Datasets
 The multimodal data sets include Houston 2013, Augsburg and GRSS-DFC-2007.
-Click [here]([mailto:weixiao0124@126.com](https://drive.google.com/drive/folders/1zt18uhqqMSfp1g4DpxuDQTVpW6ukkMPN?usp=drive_link) to download the dataset.
+Click [here](https://drive.google.com/drive/folders/1zt18uhqqMSfp1g4DpxuDQTVpW6ukkMPN?usp=drive_link) to download the dataset.
 
 ## Usage
 For any questions, feel free to contact us  [weixiao0124@126.com](mailto:weixiao0124@126.com).
